@@ -1,4 +1,4 @@
-# <p align = 'center'>Customer Segmentation For Automobile Company</p>
+# <p align = 'center'>Customer Segmentation</p>
 
 ## PROJECT OVERVIEW
 The purpose of this project is to conduct a Customer Segmentation Analysis for an Automobile bike Company. Customer segmentation is performed by developing a RFM Model. RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. In this analysis the customer segment was divided into 11 groups. 
