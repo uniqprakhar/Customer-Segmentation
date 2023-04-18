@@ -7,15 +7,15 @@ The analysis will help in determining which customers segments should be targete
 
 <b>Project Files</b> - 
 
-1. [DQA and Data Cleaning CustomerDemographic.ipynb](https://nbviewer.org/github/adiag321/Customer-Segmentation-for-Automobile-Company/blob/main/1_DQA%20and%20Data%20Cleaning%20CustomerDemographic.ipynb)
+1. [DQA and Data Cleaning CustomerDemographic.ipynb](https://nbviewer.org/github/uniqprakhar/Customer-Segmentation/blob/main/1_DQA%20and%20Data%20Cleaning%20CustomerDemographic.ipynb)
 
-2. [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.org/github/adiag321/Customer-Segmentation-for-Automobile-Company/blob/main/DQA%20and%20Data%20Cleaning%20Customer%20Address.ipynb)
+2. [DQA and Data Cleaning Customer Address.ipynb](https://nbviewer.org/github/uniqprakhar/Customer-Segmentation/blob/main/2_DQA%20and%20Data%20Cleaning%20Customer%20Address.ipynb)
 
-3. [DQA and Data Cleaning NewCustomerList.ipynb](https://nbviewer.org/github/adiag321/Customer-Segmentation-for-Automobile-Company/blob/main/3_DQA%20and%20Data%20Cleaning%20NewCustomerList.ipynb)
+3. [DQA and Data Cleaning NewCustomerList.ipynb](https://nbviewer.org/github/uniqprakhar/Customer-Segmentation/blob/main/3_DQA%20and%20Data%20Cleaning%20NewCustomerList.ipynb)
 
-4. [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/adiag321/Customer-Segmentation-for-Automobile-Company/blob/main/4_DQA%20and%20Data%20Cleaning%20Transactions.ipynb)
+4. [DQA and Data Cleaning Transactions.ipynb](https://nbviewer.org/github/uniqprakhar/Customer-Segmentation/blob/main/4_DQA%20and%20Data%20Cleaning%20Transactions.ipynb)
 
-5. [RFM Analysis.ipynb](https://nbviewer.org/github/adiag321/Customer-Segmentation-for-Automobile-Company/blob/main/5_RFM%20Analysis.ipynb)
+5. [RFM Analysis.ipynb](https://nbviewer.org/github/uniqprakhar/Customer-Segmentation/blob/main/5_RFM%20Analysis.ipynb)
 
 ## DATA DESCRIPTION
 The datasets used include:
